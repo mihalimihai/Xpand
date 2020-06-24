@@ -1,0 +1,12 @@
+D:\ABAC coding challenge\XPAND\XPAND.Infrastructure\bin\Debug\netcoreapp3.1\XPAND.Infrastructure.deps.json
+D:\ABAC coding challenge\XPAND\XPAND.Infrastructure\bin\Debug\netcoreapp3.1\XPAND.Infrastructure.dll
+D:\ABAC coding challenge\XPAND\XPAND.Infrastructure\obj\Debug\netcoreapp3.1\XPAND.Infrastructure.csprojAssemblyReference.cache
+D:\ABAC coding challenge\XPAND\XPAND.Infrastructure\obj\Debug\netcoreapp3.1\XPAND.Infrastructure.AssemblyInfoInputs.cache
+D:\ABAC coding challenge\XPAND\XPAND.Infrastructure\obj\Debug\netcoreapp3.1\XPAND.Infrastructure.AssemblyInfo.cs
+D:\ABAC coding challenge\XPAND\XPAND.Infrastructure\bin\Debug\netcoreapp3.1\XPAND.Infrastructure.runtimeconfig.json
+D:\ABAC coding challenge\XPAND\XPAND.Infrastructure\bin\Debug\netcoreapp3.1\XPAND.Infrastructure.runtimeconfig.dev.json
+D:\ABAC coding challenge\XPAND\XPAND.Infrastructure\obj\Debug\netcoreapp3.1\XPAND.Infrastructure.genruntimeconfig.cache
+D:\ABAC coding challenge\XPAND\XPAND.Infrastructure\bin\Debug\netcoreapp3.1\XPAND.Infrastructure.pdb
+D:\ABAC coding challenge\XPAND\XPAND.Infrastructure\obj\Debug\netcoreapp3.1\XPAND.Infrastructure.csproj.CoreCompileInputs.cache
+D:\ABAC coding challenge\XPAND\XPAND.Infrastructure\obj\Debug\netcoreapp3.1\XPAND.Infrastructure.dll
+D:\ABAC coding challenge\XPAND\XPAND.Infrastructure\obj\Debug\netcoreapp3.1\XPAND.Infrastructure.pdb

@@ -1,0 +1,12 @@
+D:\ABAC coding challenge\XPAND\XPAND.BL\bin\Debug\netcoreapp3.1\XPAND.BL.deps.json
+D:\ABAC coding challenge\XPAND\XPAND.BL\bin\Debug\netcoreapp3.1\XPAND.BL.dll
+D:\ABAC coding challenge\XPAND\XPAND.BL\obj\Debug\netcoreapp3.1\XPAND.BL.csprojAssemblyReference.cache
+D:\ABAC coding challenge\XPAND\XPAND.BL\obj\Debug\netcoreapp3.1\XPAND.BL.AssemblyInfoInputs.cache
+D:\ABAC coding challenge\XPAND\XPAND.BL\obj\Debug\netcoreapp3.1\XPAND.BL.AssemblyInfo.cs
+D:\ABAC coding challenge\XPAND\XPAND.BL\bin\Debug\netcoreapp3.1\XPAND.BL.pdb
+D:\ABAC coding challenge\XPAND\XPAND.BL\bin\Debug\netcoreapp3.1\XPAND.Infrastructure.dll
+D:\ABAC coding challenge\XPAND\XPAND.BL\bin\Debug\netcoreapp3.1\XPAND.Infrastructure.pdb
+D:\ABAC coding challenge\XPAND\XPAND.BL\obj\Debug\netcoreapp3.1\XPAND.BL.csproj.CoreCompileInputs.cache
+D:\ABAC coding challenge\XPAND\XPAND.BL\obj\Debug\netcoreapp3.1\XPAND.BL.csproj.CopyComplete
+D:\ABAC coding challenge\XPAND\XPAND.BL\obj\Debug\netcoreapp3.1\XPAND.BL.dll
+D:\ABAC coding challenge\XPAND\XPAND.BL\obj\Debug\netcoreapp3.1\XPAND.BL.pdb

@@ -1,0 +1,22 @@
+.update_button {
+    background-color:  #a2545f; /*toolbar color*/
+    border: 1;
+    color: white;
+    text-align: center;
+    display: inline-block;
+    font-size: 14px;
+    margin-left: 5%;
+}
+#description {
+    margin-left: 1%;
+    height: 1.5rem;
+}
+#description_label {
+    margin-left: 5%;
+}
+#status_label {
+    margin-left: 5%;
+}
+#planet_name_label{
+    margin-left: 5%;
+}
